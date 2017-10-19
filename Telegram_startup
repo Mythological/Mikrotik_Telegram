@@ -1,0 +1,6 @@
+:delay 5
+:global botID "bot12345678:AAEXFKJHjJHkjhKJHuihnkJHJlkh" ;  
+:global myChatID "12342431234" ;
+:global startLoc 0;
+:global endLoc 0;
+:tool fetch url=("https://api.telegram.org/".$botID."/getUpdates") ;
