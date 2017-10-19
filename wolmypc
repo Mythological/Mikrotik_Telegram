@@ -1,0 +1,2 @@
+/tool wol interface=ether1-master-local mac=d4:00:00:00:00:00
+/tool fetch url="https://api.telegram.org/botXXXXXXXX:AAEXF4XXXXXtXXXXXXXXXXXXXXXX/sendmessage\?chat_id=1111111111&text=Wol-OK" keep-result=no
